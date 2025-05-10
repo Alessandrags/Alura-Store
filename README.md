@@ -52,7 +52,7 @@ A análise exploratória dos dados envolveu as seguintes etapas:
     * Gráfico de barras da média de avaliações por loja. ![Gráfico de Média de Avaliações por Loja](Imagens/media_de_avaliacao_por_loja.png)
     * Gráfico de linhas do frete médio por loja. ![Gráfico de Frete Médio por Loja](Imagens/frete_medio_por_loja.png)
     * Mapa de calor (Heatmap) utilizando a biblioteca Folium para visualizar a distribuição geográfica das vendas.
-      [Clique aqui para visualizar o mapa de calor interativo](mapa_de_calor.html)
+      [Visualizar Mapa de Calor Interativo](https://alessandrags.github.io/Alura-Store/mapa_de_calor.html)
 
 ## 💡 Conclusão e Recomendação
 
