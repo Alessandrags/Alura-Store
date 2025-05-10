@@ -47,11 +47,12 @@ A análise exploratória dos dados envolveu as seguintes etapas:
 * **Análise de Produtos Destaque:** Identificação dos produtos mais e menos vendidos em cada loja, tanto em quantidade quanto em valor, incluindo a participação percentual no faturamento da loja.
 * **Custo de Frete:** Cálculo do frete médio por loja.
 * **Visualização de Dados:** Criação de gráficos utilizando a biblioteca Matplotlib para melhor compreensão dos resultados:
-    * Gráfico de barras do faturamento por loja.
-    * Gráfico de pizza da participação no faturamento total.
-    * Gráfico de barras da média de avaliações por loja.
-    * Gráfico de linhas do frete médio por loja.
+    * Gráfico de barras do faturamento por loja. ![Gráfico de Faturamento por Loja](Imagens/faturamento_por_loja.png)
+    * Gráfico de pizza da participação no faturamento total. ![Gráfico de Participação no Faturamento Total](Imagens/participacao_no_faturamento_por_loja.png)
+    * Gráfico de barras da média de avaliações por loja. ![Gráfico de Média de Avaliações por Loja](Imagens/media_de_avaliacao_por_loja.png)
+    * Gráfico de linhas do frete médio por loja. ![Gráfico de Frete Médio por Loja](Imagens/frete_medio_por_loja.png)
     * Mapa de calor (Heatmap) utilizando a biblioteca Folium para visualizar a distribuição geográfica das vendas.
+      [Clique aqui para visualizar o mapa de calor interativo](Imagens/mapa_de_calor.html)
 
 ## 💡 Conclusão e Recomendação
 
